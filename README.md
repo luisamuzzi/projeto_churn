@@ -68,9 +68,9 @@ O projeto foi desenvolvido por meio de uma Análise Exploratória de Dados, cons
     
     O relatório pode ser visualizado por meio do link:
     
-    [Apresentação - Churn](https://www.canva.com/design/DAGy0XAtopw/6b5dBXWuadOPUyQP06Q5ng/view?utm_content=DAGy0XAtopw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd657d672ae).
+1. [Apresentação - Churn](https://www.canva.com/design/DAGy0XAtopw/6b5dBXWuadOPUyQP06Q5ng/view?utm_content=DAGy0XAtopw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd657d672ae).
     
-2. Notebook contendo a análise completa dos dados.
+2. [Notebook](EDA_churn.ipynb) contendo a análise completa dos dados.
 
 ### 6. Principais insights de dados
 
