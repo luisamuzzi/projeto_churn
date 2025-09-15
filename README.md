@@ -16,14 +16,14 @@ Leia mais sobre o projeto abaixo.
 
 ### Índice
 
-- [1. Contexto](https://github.com/luisamuzzi/projeto_churn/edit/main/README.md#1-contexto)
-- [2. Premissas assumidas para a análise](https://github.com/luisamuzzi/projeto_churn/edit/main/README.md#2--premissas-assumidas-para-a-an%C3%A1lise)
-- [3. Ferramentas utilizadas](https://github.com/luisamuzzi/projeto_churn/edit/main/README.md#3-ferramentas-utilizadas)
-- [4. Estratégias de solução](https://github.com/luisamuzzi/projeto_churn/edit/main/README.md#4-estrat%C3%A9gias-de-solu%C3%A7%C3%A3o)
-- [5. O produto final do projeto](https://github.com/luisamuzzi/projeto_churn/edit/main/README.md#5-o-produto-final-do-projeto)
-- [6. Principais insights de dados](https://github.com/luisamuzzi/projeto_churn/edit/main/README.md#6-principais-insights-de-dados)
-- [7. Conclusão](https://github.com/luisamuzzi/projeto_churn/edit/main/README.md#7-conclus%C3%A3o)
-- [8. Próximos passos](https://github.com/luisamuzzi/projeto_churn/edit/main/README.md#8-pr%C3%B3ximos-passos)
+- [1. Contexto](https://github.com/luisamuzzi/projeto_churn/tree/main#1-contexto)
+- [2. Premissas assumidas para a análise](https://github.com/luisamuzzi/projeto_churn/tree/main#2--premissas-assumidas-para-a-an%C3%A1lise)
+- [3. Ferramentas utilizadas](https://github.com/luisamuzzi/projeto_churn/tree/main#3-ferramentas-utilizadas)
+- [4. Estratégias de solução](https://github.com/luisamuzzi/projeto_churn/tree/main#4-estrat%C3%A9gias-de-solu%C3%A7%C3%A3o)
+- [5. O produto final do projeto](https://github.com/luisamuzzi/projeto_churn/tree/main#5-o-produto-final-do-projeto)
+- [6. Principais insights de dados](https://github.com/luisamuzzi/projeto_churn/tree/main#6-principais-insights-de-dados)
+- [7. Conclusão](https://github.com/luisamuzzi/projeto_churn/tree/main#7-conclus%C3%A3o)
+- [8. Próximos passos](https://github.com/luisamuzzi/projeto_churn/tree/main#8-pr%C3%B3ximos-passos)
 
 ### 1. Contexto
 
